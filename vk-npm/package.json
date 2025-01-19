@@ -1,0 +1,21 @@
+{
+  "name": "keep-alive-reloader",
+  "version": "2.1.1",
+  "description": "A npm package to reload render website. So your deployed website do not go to sleep for render free tier websites.",
+  "main": "keep-alive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reload"
+  ],
+  "author": "Vinay Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "keep-alive-reloader": "^1.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/codes4vinay"
+  },
+  "homepage": "https://npmjs.com/package/keep-alive-reloader"
+}
